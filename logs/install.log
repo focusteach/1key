@@ -1,0 +1,21 @@
+2019-11-05 11:51:03 [install started].
+-------------------------
+git version 2.22.0
+-------------------------
+-------------------------
+Client: Docker Engine - Community
+ Version:           19.03.4
+ API version:       1.40
+ Go version:        go1.12.10
+ Git commit:        9013bf5
+ Built:             Thu Oct 17 23:44:48 2019
+ OS/Arch:           darwin/amd64
+ Experimental:      false
+-------------------------
+-------------------------
+docker-compose version 1.24.1, build 4667896b
+docker-py version: 3.7.3
+CPython version: 3.6.8
+OpenSSL version: OpenSSL 1.1.0j  20 Nov 2018
+-------------------------
+2019-11-05 11:51:10 [install end].
